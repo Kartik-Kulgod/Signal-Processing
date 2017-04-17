@@ -1,3 +1,0 @@
-%To find the characteristic roots of the differential eqn%
-p=[1,-5,6];
-roots(p)

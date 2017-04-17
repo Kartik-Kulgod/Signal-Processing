@@ -1,0 +1,7 @@
+function [x,n] = unit_step(n0,n1,n2 )
+%UNIT_STEP Summary of this function goes here
+%   Detailed explanation goes here
+n=n1:n2;
+x=[n>=n0];
+end
+
